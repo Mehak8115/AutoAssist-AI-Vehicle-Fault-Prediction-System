@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 import os
 
-# Page configuration - MUST be first Streamlit command
+# Page configuration 
 st.set_page_config(
     page_title="Vehicle Fault Prediction System",
     layout="wide",
@@ -668,6 +668,7 @@ if __name__ == "__main__":
 
 
 # In[ ]:
+
 
 
 
